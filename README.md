@@ -12,7 +12,7 @@ For OPENVPN Proxy !!!
 
 # How to use:
 * [+] !!!ALWAYS RUN ALL COMMANDS WITH SUDO!!!
-* [+] Execute  ```sudo S3cr3tSeek3r.sh ``` in terminal
-* [+] Then open a new terminal And  ```sudo RUN1.sh ``` this will setup a PROXY Server IP for own protection
-* [+] Next When RUN1.sh was executed open NEW terminal and run  ```sudo CHECKIP1.sh ``` to confirm your new IP
+* [+] Execute  ```sudo ./S3cr3tSeek3r.sh ``` in terminal
+* [+] Then open a new terminal And  ```sudo ./RUN1.sh ``` this will setup a PROXY Server IP for own protection
+* [+] Next When RUN1.sh was executed open NEW terminal and run  ```sudo ./CHECKIP1.sh ``` to confirm your new IP
 * [+] When ABOVE STEPS ARE COMPLETED , HIT ENTER .... ENJOY SEARCHING!!!
