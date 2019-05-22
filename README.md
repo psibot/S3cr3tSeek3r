@@ -1,4 +1,4 @@
-![S3cr3tSeek3r](https://i.imgur.com/nSIMKjN.png)
+![S3cr3tSeek3r](https://i.imgur.com/ltNyrhC.png)
 S3cr3tSeek3r V.1
 
 Need to install (tested on Ubuntu)
