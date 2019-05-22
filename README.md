@@ -17,6 +17,6 @@ For OPENVPN Proxy !!!
 * [+] Next When RUN1.sh was executed open NEW terminal and run  ```sudo ./CHECKIP1.sh ``` to confirm your new IP
 * [+] When ABOVE STEPS ARE COMPLETED , HIT ENTER .... ENJOY SEARCHING!!!
 
-* [+]  I have included a example of search... have fun!
+* [+]  I have included a example of search, you can click on url's to open in browser... have fun!
 
 ![Example](https://i.imgur.com/mPlu4BV.png)
