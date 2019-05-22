@@ -16,3 +16,7 @@ For OPENVPN Proxy !!!
 * [+] Then open a new terminal And  ```sudo ./RUN1.sh ``` this will setup a PROXY Server IP for own protection
 * [+] Next When RUN1.sh was executed open NEW terminal and run  ```sudo ./CHECKIP1.sh ``` to confirm your new IP
 * [+] When ABOVE STEPS ARE COMPLETED , HIT ENTER .... ENJOY SEARCHING!!!
+
+* [+]  I have included a example of search... have fun!
+
+![Example](https://i.imgur.com/mPlu4BV.png)
