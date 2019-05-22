@@ -16,5 +16,3 @@ For OPENVPN Proxy !!!
 * [+] Then open a new terminal And  ```RUN1.sh ``` this will setup a PROXY Server for own protection
 * [+] Next When RUN1.sh was executed open NEW terminal and run  ```CHECKIP1.sh ``` to confirm your new IP
 * [+] When ABOVE STEPS ARE COMPLETED , HIT ENTER .... ENJOY SEARCHING!!!
-# S3cr3tSeek3r
-# S3cr3tSeek3r
