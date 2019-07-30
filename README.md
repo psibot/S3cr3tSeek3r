@@ -20,3 +20,7 @@ For OPENVPN Proxy !!!
 * I have included a example of search, you can click on url's to open in browser... have fun!
 
 ![Example](https://i.imgur.com/mPlu4BV.png)
+
+
+Also do :
+https://gist.github.com/DusanMadar/c1155329cf6a71e4346cae271a2eafd3
